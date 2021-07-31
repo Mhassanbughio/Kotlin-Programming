@@ -1,1 +1,4 @@
+fun main(args:Array<String>){
+    //print("Hello Kotlin for K18 SW\n")
+    //println("Hello New line")
 
