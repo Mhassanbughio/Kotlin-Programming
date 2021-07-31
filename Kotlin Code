@@ -2,3 +2,6 @@ fun main(args:Array<String>){
     //print("Hello Kotlin for K18 SW\n")
     //println("Hello New line")
 
+ //System.out.println("Hello Java code in kotlin");
+    //System.out.println("Hello Java code in kotlin without semicolon")
+
