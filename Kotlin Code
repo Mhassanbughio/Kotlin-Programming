@@ -8,3 +8,8 @@ fun main(args:Array<String>){
 // Variables
     //var my_variable = "Hello Variables"
     //println(my_variable)
+
+//var x:Int = 234234
+    //var y:Double = 234.99
+    //var a:String = "Hello"
+    //var b:Char = 'A'
