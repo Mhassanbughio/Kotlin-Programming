@@ -17,3 +17,6 @@ fun main(args:Array<String>){
  //var vs val
     //val y:Int = 0
     //print(y)
+
+//Taking input in kotlin
+    //println("Enter any value : ")
