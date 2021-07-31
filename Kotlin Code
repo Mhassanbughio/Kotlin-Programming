@@ -13,3 +13,7 @@ fun main(args:Array<String>){
     //var y:Double = 234.99
     //var a:String = "Hello"
     //var b:Char = 'A'
+
+ //var vs val
+    //val y:Int = 0
+    //print(y)
