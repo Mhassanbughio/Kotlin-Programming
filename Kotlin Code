@@ -5,3 +5,6 @@ fun main(args:Array<String>){
  //System.out.println("Hello Java code in kotlin");
     //System.out.println("Hello Java code in kotlin without semicolon")
 
+// Variables
+    //var my_variable = "Hello Variables"
+    //println(my_variable)
