@@ -20,3 +20,6 @@ fun main(args:Array<String>){
 
 //Taking input in kotlin
     //println("Enter any value : ")
+
+//var inputReport= readLine()
+    //print(inputReport)
