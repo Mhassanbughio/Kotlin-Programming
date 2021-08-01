@@ -36,3 +36,4 @@ fun main(args:Array<String>){
     //var week:Int = 1
     //println("$days days in week $week")
     //println("There are total days in month :"+(days*4)/2)
+    //println("There are total days in month :${(days*4)/2}")
