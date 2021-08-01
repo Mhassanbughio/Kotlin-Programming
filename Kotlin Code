@@ -39,3 +39,4 @@ fun main(args:Array<String>){
     //println("There are total days in month :${(days*4)/2}")
 
     //Conditions
+    //var age:Int = 26
