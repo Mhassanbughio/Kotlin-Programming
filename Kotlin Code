@@ -45,3 +45,4 @@ fun main(args:Array<String>){
     //}else{
     //    print("You are poor")
     //}
+    //var text:String = income.toString();
