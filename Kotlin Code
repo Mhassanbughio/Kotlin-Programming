@@ -26,4 +26,4 @@ fun main(args:Array<String>){
 
     //Lets check some data type mismatches
         //var i:Int=10
-
+     //var j:Double = i/3.0
