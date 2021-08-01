@@ -43,3 +43,4 @@ fun main(args:Array<String>){
     //if(age < 25){
     //    println("You are young")
     //}else{
+    //    print("You are poor")
