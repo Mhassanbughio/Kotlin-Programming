@@ -23,3 +23,5 @@ fun main(args:Array<String>){
 
 //var inputReport= readLine()
     //print(inputReport)
+
+    //Lets check some data type mismatches
