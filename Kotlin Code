@@ -33,3 +33,4 @@ fun main(args:Array<String>){
     //var name:String = "Hassan"
     //println("My name is " + name)
     //var days:Int = 7
+    //var week:Int = 1
