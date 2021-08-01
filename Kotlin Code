@@ -40,3 +40,4 @@ fun main(args:Array<String>){
 
     //Conditions
     //var age:Int = 26
+    //if(age < 25){
